@@ -1,0 +1,14 @@
+.App-name{
+    color: rgb(68, 62, 121);
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -100px;
+}
+
+.App-input{
+    height: 20px;
+    width: 200px;
+    box-sizing: 100px;
+    border-radius: 5px;
+}
