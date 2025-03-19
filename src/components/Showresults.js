@@ -9,6 +9,8 @@ const Showresults=({ipResult})=>{
                 <br></br>
                 <li>Country: <span className='Ip-list'>{ipResult.country_name}</span></li>
                 <br></br>
+                <li>State: <span className='Ip-list'>{ipResult.state_prov}</span></li>
+                <br></br>
                 <li>City: <span className='Ip-list'>{ipResult.city}</span></li>
                 <br></br>
                 <li>Country Flag: <span className='Ip-list'><a href={ipResult.country_flag} target='_blank'>Flag</a></span></li>
